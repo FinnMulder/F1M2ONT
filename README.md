@@ -1,8 +1,7 @@
 # F1M2ONT
 ontwerp
 
-les 2- Atributen en CSS http://32256.hosts1.ma-cloud.nl/heineken/
-http://32256.hosts1.ma-cloud.nl/atributenencssheineken/
+les 2- Atributen en CSS http://32256.hosts1.ma-cloud.nl/atributenencssheineken/
 
 les 3- Padding http://32256.hosts1.ma-cloud.nl/frenkiedejongpadding/
 
